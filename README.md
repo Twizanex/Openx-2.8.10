@@ -1,4 +1,4 @@
-OpenX-2.8.10 or now known as REvie
+OpenX-2.8.10 or now known as Revive adserver
 ============
 
 Openx 2.8.10 and Elgg 1.8 Softwares Ads integration
